@@ -2,6 +2,8 @@
 
 body {
   font-family: Manrope;
+  margin: 0;
+  padding: 0;
 }
 .container {
   height: 90vh;
